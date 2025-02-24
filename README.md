@@ -1,16 +1,18 @@
 
 <picture>
     <img 
-         src="/images/dotnet.jpg"
-         width="64"
-         alt="dotnet"
+        src="/images/dotnet.jpg"
+        width="64"
+        alt="dotnet"
+        style="visibility:visible;max-width:100%;"
     />
 </picture>
 <picture>
     <img 
-         src="/images/react.png"
-         width="64"
-         alt="react"
+        src="/images/react.png"
+        width="64"
+        alt="react"
+        style="visibility:visible;max-width:100%"
     />
 </picture>
 <br>
