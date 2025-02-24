@@ -2,7 +2,7 @@
 <picture>
     <img 
         src="/images/dotnet.jpg"
-        width="64"
+        width="48"
         alt="dotnet"
         style="visibility:visible;max-width:100%;"
     />
@@ -10,8 +10,16 @@
 <picture>
     <img 
         src="/images/react.png"
-        width="64"
+        width="48"
         alt="react"
+        style="visibility:visible;max-width:100%"
+    />
+</picture>
+<picture>
+    <img 
+        src="/images/typescript.png"
+        width="48"
+        alt="typescript"
         style="visibility:visible;max-width:100%"
     />
 </picture>
