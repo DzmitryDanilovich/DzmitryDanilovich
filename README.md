@@ -4,6 +4,7 @@
         src="/images/dotnet.jpg"
         width="48"
         alt="dotnet"
+        title="dotnet"
         style="visibility:visible;max-width:100%;"
     />
 </picture>
@@ -12,6 +13,7 @@
         src="/images/react.png"
         width="48"
         alt="react"
+        title="react"
         style="visibility:visible;max-width:100%"
     />
 </picture>
@@ -20,6 +22,7 @@
         src="/images/typescript.png"
         width="48"
         alt="typescript"
+        title="typescript"
         style="visibility:visible;max-width:100%"
     />
 </picture>
